@@ -2,6 +2,8 @@
 
 A React app that fetches random quotes from a public API. Users can filter quotes by tags, select multiple quotes, and search by author. Fully responsive and styled for a clean, professional look.
 
+Live Demo: https://random-quote-app-five.vercel.app/
+
 **Features**
 
 Fetch available tags on app load.
