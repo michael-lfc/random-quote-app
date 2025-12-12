@@ -32,7 +32,7 @@ Fetch API for HTTP requests
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/quotes-app.git
+git clone https://github.com/michael-lfc/quotes-app.git
 
 
 **Navigate to the project folder:**
